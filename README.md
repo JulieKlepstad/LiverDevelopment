@@ -1,2 +1,2 @@
 # LiverDevelopment
-Model developed for the paper "Lineage tracing identifies heterogeneous hepatoblast contribution to cell lineages and postembryonic organ growth dynamics" by Iris. A. Unterweger, Julie Klepstad, Edouard Hannezo, Pia R. Lundegaard, Ala Trusina and Elke A. Ober
+Model of cell differentiation and proliferation in Zebrafish liver development, created for the paper "Lineage tracing identifies heterogeneous hepatoblast contribution to cell lineages and postembryonic organ growth dynamics" by Iris. A. Unterweger, Julie Klepstad, Edouard Hannezo, Pia R. Lundegaard, Ala Trusina and Elke A. Ober. BioRxiV: https://doi.org/10.1101/2023.01.18.524321.
